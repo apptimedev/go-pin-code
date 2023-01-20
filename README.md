@@ -1,11 +1,11 @@
 # Go Pin Code Generator
-## foruscommunity/go-pin-code
+## apptimedev/go-pin-code
 
-[![Forus App](https://forus.app/icons/icon-128x128.png)](https://forus.app)
+[![Apptime](https://apptime.dev/icons/icon-128x128.png)](https://apptime.dev)
 
 ---
 
-Package `foruscommunity/go-pin-code` implements a 6-digit pin code generator.
+Package `apptimedev/go-pin-code` implements a 6-digit pin code generator.
 
 ---
 
@@ -18,7 +18,7 @@ Package `foruscommunity/go-pin-code` implements a 6-digit pin code generator.
 ## Install
 
 ```sh
-go get -u github.com/foruscommunity/go-pin-code
+go get -u github.com/apptimedev/go-pin-code
 ```
 
 ## Examples
@@ -28,7 +28,7 @@ Generate a 6-digit pin code:
 ```go
 import (
         "fmt"
-        "github.com/foruscommunity/go-pin-code"
+        "github.com/apptimedev/go-pin-code"
 )
 
 func main() {
